@@ -35,7 +35,7 @@ Completa la configuración de modo que tu sesión se vea así:
 Después ejecuta la aplicación con este comando:
 
 ```
-docker compose up —build
+docker compose up -—build
 ```
 
 Navega a la dirección `localhost:8000` y verifica que puedes acceder a tu aplicación.
